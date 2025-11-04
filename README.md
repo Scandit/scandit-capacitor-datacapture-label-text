@@ -1,0 +1,1 @@
+ScanditLabelText provides native label text dependencies for the Scandit Data Capture SDK for Capacitor. This module is used to bring in native dependencies when referenced and does not expose additional API functionality.
