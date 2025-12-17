@@ -1,6 +1,6 @@
 {
   "name": "scandit-capacitor-datacapture-label-text",
-  "version": "8.0.0",
+  "version": "8.1.0",
   "description": "Scandit Data Capture SDK for Capacitor",
   "files": [
     "android/",
