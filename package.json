@@ -1,13 +1,12 @@
 {
   "name": "scandit-capacitor-datacapture-label-text",
-  "version": "8.6.0",
+  "version": "8.4.2",
   "description": "Scandit Data Capture SDK for Capacitor",
   "files": [
     "android/",
     "ios",
     "ScanditCapacitorDatacaptureLabelText.podspec",
-    "Package.swift",
-    "THIRD_PARTY.txt"
+    "Package.swift"
   ],
   "author": "",
   "license": "Apache-2.0",
